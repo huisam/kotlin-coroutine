@@ -27,7 +27,7 @@ dependencies {
     implementation("io.arrow-kt:arrow-optics:1.1.5")
     testImplementation("io.mockk:mockk:1.13.9")
     testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.8.0")
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.7.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-debug:1.8.0")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
     testImplementation("io.projectreactor:reactor-test")
 }
